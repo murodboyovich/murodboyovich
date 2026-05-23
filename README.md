@@ -8,6 +8,18 @@ I got interested in programming at a very young age.
 
 ---
 
+### 🛠️ Tech Stack & Skills
+
+Here are the languages and tools I work with...
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
+</p>
+
+---
+
 ### 🔗 Connect & Check Out My Progress
 
 Click on any of the badges below to check out my profiles, challenges, and certifications across the web!
@@ -26,11 +38,3 @@ Click on any of the badges below to check out my profiles, challenges, and certi
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
-
----
-
-### 📊 Tech Stack Summary
-
-<img width="2183" height="2500" alt="html-1" src="https://github.com/user-attachments/assets/1b67c7ec-39b7-47ec-a2e8-a49feb84364c" />
-<img width="2183" height="2500" alt="css-3" src="https://github.com/user-attachments/assets/28b0eaf1-ff85-433f-975c-f463d96e2fc9" />
-<img width="800" height="800" alt="python" src="https://github.com/user-attachments/assets/37f7d2ad-300c-416f-808e-c302f4f1cba9" />
