@@ -42,7 +42,7 @@ Click on any of the badges below to check out my profiles, challenges, and certi
 
 <div style="display: flex; align-items: center; font-family: sans-serif;">
   <a href="mailto:alexsenglishman@gmail.com" style="text-decoration: none; display: flex; align-items: center; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="45" style="margin-right: 6px;" />
-    <span style="font-size: 10px; font-weight: bold;">alexsenglishman@gmail.com</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="28" style="margin-right: 10px; display: block;" />
+    <span style="font-size: 18px; font-weight: bold; line-height: 1;">alexsenglishman@gmail.com</span>
   </a>
 </div>
