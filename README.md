@@ -28,12 +28,15 @@ Click on any of the badges below to check out my profiles, challenges, and certi
   <a href="https://www.freecodecamp.org/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Profile" />
   </a>
+  
   <a href="https://www.frontendmentor.io/profile/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor Profile" />
   </a>
+  
   <a href="https://www.codewars.com/users/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
   </a>
+  
   <a href="mailto:alexsenglishman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
