@@ -31,5 +31,6 @@ Click on any of the badges below to check out my profiles, challenges, and certi
 
 ### 📊 Tech Stack Summary
 
-```html
-🧠 HTML5 & CSS3  | 🌟 Python (In Progress)
+<img width="2183" height="2500" alt="html-1" src="https://github.com/user-attachments/assets/1b67c7ec-39b7-47ec-a2e8-a49feb84364c" />
+<img width="2183" height="2500" alt="css-3" src="https://github.com/user-attachments/assets/28b0eaf1-ff85-433f-975c-f463d96e2fc9" />
+<img width="800" height="800" alt="python" src="https://github.com/user-attachments/assets/37f7d2ad-300c-416f-808e-c302f4f1cba9" />
