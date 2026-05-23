@@ -1,7 +1,7 @@
 # Hi there, I'm Murodboyovich! 👋
 
 ### 🚀 About Me
-I got interested in programming at a very young age.
+Learning programming languages every day...
 
 * 🌱 **Currently learning:** Python 🐍
 * 🛠️ **Foundations I know:** HTML5 & CSS3 🌐
