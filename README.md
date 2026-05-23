@@ -22,7 +22,7 @@ Click on any of the badges below to check out my profiles, challenges, and certi
   <a href="https://www.codewars.com/users/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
   </a>
-  <a href="alexsenglishman@gmail.com">
+  <a href="mailto:alexsenglishman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
