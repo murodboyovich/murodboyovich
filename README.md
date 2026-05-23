@@ -36,8 +36,13 @@ Click on any of the badges below to check out my profiles, challenges, and certi
   <a href="https://www.codewars.com/users/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
   </a>
-  
-  <a href="mailto:alexsenglishman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
 </p>
+
+---
+
+<div style="display: flex; align-items: center; font-family: sans-serif;">
+  <a href="mailto:alexsenglishman@gmail.com" style="text-decoration: none; display: flex; align-items: center; color: inherit;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="45" style="margin-right: 12px;" />
+    <span style="font-size: 20px; font-weight: bold;">alexsenglishman@gmail.com</span>
+  </a>
+</div>
