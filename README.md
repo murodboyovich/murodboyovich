@@ -1,7 +1,7 @@
 # Hi there, I'm Murodboyovich! 👋
 
 ### 🚀 About Me
-I am a passionate tech enthusiast currently expanding my skill set and building projects. I'm focused on mastering the foundations of web development and diving deep into programming logic.
+I got interested in programming at a very young age.
 
 * 🌱 **Currently learning:** Python 🐍
 * 🛠️ **Foundations I know:** HTML5 & CSS3 🌐
