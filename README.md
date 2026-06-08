@@ -59,4 +59,8 @@ Click on any of the badges below to check out my profiles, challenges, and certi
 
 <p style="line-height: 1.2;">
   <a href="mailto:alexsenglishman@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="15" valign="middle" />&nbsp;<b>alexsenglishman@gmail.com</b></a>
+  <br />
+  <a href="https://t.me/murodboyovich"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="15" valign="middle" />&nbsp;<b>@murodboyovich</b></a>
+  <br />
+  <a href="https://instagram.com/murodboyovich"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Instagram_logo_2016.svg" alt="Instagram" height="15" valign="middle" />&nbsp;<b>murodboyovich</b></a>
 </p>
