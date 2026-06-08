@@ -57,10 +57,8 @@ Click on any of the badges below to check out my profiles, challenges, and certi
 
 ---
 
-<p style="line-height: 1.6;">
-  <a href="mailto:alexsenglishman@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="14" valign="middle" />&nbsp;<b>alexsenglishman@gmail.com</b></a>
-  <br />
-  <a href="https://t.me/murodboyovich"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="16" style="padding: 0 1px;" valign="middle" />&nbsp;<b>@murodboyovich</b></a>
-  <br />
-  <a href="https://instagram.com/murodboyovich"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Instagram_logo_2016.svg" alt="Instagram" height="15" valign="middle" />&nbsp;<b>murodboyovich</b></a>
+<p align="left">
+  <a href="mailto:alexsenglishman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="22" /></a>
+  <a href="https://t.me/murodboyovich"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="22" /></a>
+  <a href="https://instagram.com/murodboyovich"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="22" /></a>
 </p>
