@@ -27,9 +27,9 @@ Learning programming languages every day...
 
 ---
 
-### <p align="center">🛠️ Tech Stack & Skills</p>
+### 🛠️ Tech Stack & Skills
 
-<p align="center">Here are the languages and tools I work with...</p>
+Here are the languages and tools I work with...
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="45" style="margin: 0 5px;" />
@@ -39,9 +39,9 @@ Learning programming languages every day...
 
 ---
 
-### <p align="center">🔗 Connect & Check Out My Progress</p>
+### 🔗 Connect & Check Out My Progress
 
-<p align="center">Click on any of the badges below to check out my profiles, challenges, and certifications across the web!</p>
+Click on any of the badges below to check out my profiles, challenges, and certifications across the web!
 
 <p align="center">
   <a href="https://www.freecodecamp.org/murodboyovich" target="_blank">
