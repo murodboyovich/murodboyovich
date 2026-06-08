@@ -50,15 +50,19 @@ Click on any of the badges below to check out my profiles, challenges, and certi
   <a href="https://www.codewars.com/users/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
   </a>
-   <a href="https://www.frontendmentor.io/profile/murodboyovich" target="_blank">
+  <a href="https://www.frontendmentor.io/profile/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor Profile" />
   </a>
 </p>
 
----
-
 <p align="left">
-  <a href="mailto:alexsenglishman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="22" /></a>
-  <a href="https://t.me/murodboyovich"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="22" /></a>
-  <a href="https://instagram.com/murodboyovich"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="22" /></a>
+  <a href="mailto:alexsenglishman@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/murodboyovich" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/murodboyovich" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
