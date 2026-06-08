@@ -27,23 +27,23 @@ Learning programming languages every day...
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### <p align="center">🛠️ Tech Stack & Skills</p>
 
-Here are the languages and tools I work with...
+<p align="center">Here are the languages and tools I work with...</p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="45" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="45" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="45" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="45" style="margin: 0 5px;" />
 </p>
 
 ---
 
-### 🔗 Connect & Check Out My Progress
+### <p align="center">🔗 Connect & Check Out My Progress</p>
 
-Click on any of the badges below to check out my profiles, challenges, and certifications across the web!
+<p align="center">Click on any of the badges below to check out my profiles, challenges, and certifications across the web!</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.freecodecamp.org/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Profile" />
   </a>
@@ -55,7 +55,7 @@ Click on any of the badges below to check out my profiles, challenges, and certi
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:alexsenglishman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
