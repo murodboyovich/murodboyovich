@@ -22,8 +22,8 @@
 ### 🚀 About Me
 Learning programming languages every day...
 
-* 🌱 **Currently learning:** Python 🐍
-* 🛠️ **Foundations I know:** HTML5 & CSS3 🌐
+* 🌱 **Currently learning:** Computer science with harvard CS50 🐤
+* 🛠️ **Foundations I know:** HTML5 & CSS3 🌐 and Python 🐍 
 
 ---
 
