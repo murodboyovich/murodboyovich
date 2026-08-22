@@ -54,6 +54,9 @@ Click on any of the badges below to check out my profiles, challenges, and certi
   <a href="https://www.frontendmentor.io/profile/murodboyovich" target="_blank">
     <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor Profile" />
   </a>
+  <a href="https://submit.cs50.io/users/murodboyovich" target="_blank">
+    <img src="https://img.shields.io/badge/CS50_Submits-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50 Submits Profile" />
+  </a>
 </p>
 
 <p align="center">
